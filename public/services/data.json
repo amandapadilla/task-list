@@ -1,0 +1,19 @@
+{
+  "results": [
+    {
+      "name": "Sacar al perro",
+      "description": "Recoger cacas",
+      "id": "id1"
+    },
+    {
+      "name": "Descansar",
+      "description": "Antes de programar",
+      "id": "id2"
+    },
+    {
+      "name": "Debuggear",
+      "description": "Y limpiar código",
+      "id": "id3"
+    }
+  ]
+}
